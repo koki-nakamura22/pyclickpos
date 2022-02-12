@@ -1,0 +1,2 @@
+This product includes software from mouse (MIT License)
+https://github.com/boppreh/mouse
